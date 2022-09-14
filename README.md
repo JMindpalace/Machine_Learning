@@ -1,3 +1,5 @@
-# Machine_Learning
-Machine-Learning -- Basic ~ EDA
-d
+# 왜 Machine_Learning인가
+
+## 서론
+
+### ㅁㅁ
